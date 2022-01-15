@@ -1,3 +1,7 @@
+
+//A class in which each and every data member are declared as private that class is known as tighly encapsulated class.
+//The following Account class is also tighly Encapsulated class.
+
 import java.util.*;
 class Account {
     private double balance;
