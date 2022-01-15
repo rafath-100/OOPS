@@ -1,0 +1,13 @@
+     Abstract Classes               |           Interfaces
+                                    |
+1) Can extend one abstract class    |  1) Can implement any number of interfaces.                     |
+                                    |
+2) Can  have abstract methods and   |  2) Can have abstract methods, static, 
+   concrete methods                 |     default, private methods.
+                                    |
+3) 'abstract' keyword required in   |  3) 'abstract' keyword not required as by 
+   declaration of abstract methods. |     default all methods are abstract.
+                                    |
+4) Can have static, final or static |  4) Can have only static final variable by
+   final variables with any access  |     default.
+   specifier.                       |
