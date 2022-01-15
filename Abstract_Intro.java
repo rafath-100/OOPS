@@ -1,3 +1,6 @@
+import oops_pillars.A;
+import oops_pillars.B;
+
 abstract class A {
     public abstract void absMethod();
     public void msg()
