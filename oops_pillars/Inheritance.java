@@ -1,4 +1,4 @@
-package oops_pillars;
+//package oops_pillars;
 // Inheritance : It is a mechanism to create a new class called as child class, deriving the old class which is known as the parent class.
 // Inheritance is of two types IS-A and HAS-A relationship.
 // Single Level
